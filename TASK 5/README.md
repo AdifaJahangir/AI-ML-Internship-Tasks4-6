@@ -185,7 +185,5 @@ This chatbot is intended for educational and research purposes only. It is not a
 
 Adifa Jahangir
 
-BS Artificial Intelligence
 
-AI/ML Internship Project – Task 5
 
